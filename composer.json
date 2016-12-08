@@ -1,0 +1,20 @@
+{
+    "name": "tobidsn/paymentrandomfee",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "https://github.com/tobidsn/paymentrandomfee",
+    "description": "Adds random payment method based fee",
+    "authors": [
+        {
+            "name": "Tobi DSN.",
+            "url": "https://github.com/tobidsn"
+        },
+        {
+            "name": "tobidsn",
+            "email": "tobidsn@gmail.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
