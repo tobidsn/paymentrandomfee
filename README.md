@@ -23,6 +23,7 @@ Screenshots
 
 Extension Configuration
 
+
 ![Payment Fee Config](https://raw.github.com/tobidsn/paymentrandomfee/master/app/src/config.png "Payment Fee Config")
 
 Checkout Totals
